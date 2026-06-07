@@ -20,14 +20,14 @@ I build production-grade web applications — multi-role dashboards, API-heavy p
 ### Digital Inspection Platform *(Private codebase)*
 Multi-role bus inspection system with Admin, Inspector, Client (STU), and OEM dashboards. Built phase-based workflows (Structural → Prototype → Delivery) with approval/resubmission logic, a query management system for cross-stakeholder communication, and integrated AI APIs for validating uploaded inspection images.
 
-`React.js` `Next.js` `TypeScript` `Material UI` `REST APIs` `AI API integration`
+`React.js` `Material UI` `REST APIs` `AI API integration`
 
 ---
 
 ### DialOne — Local Business Discovery *(Private codebase)*
 Business listing platform where vendors register, promote services, and run ads/offers. Implemented subscription-based plans, advanced search with category and location filters, and scalable UI for listings and promotional sections.
 
-`React.js` `Next.js` `Tailwind CSS` `REST APIs`
+`React.js`  `Material UI` `REST APIs`
 
 ---
 
@@ -43,7 +43,7 @@ Frontend e-commerce app — category browsing (men, women, kids), subcategories,
 ### [ConnectWave](https://github.com/Dhruvi2603/connectwave) *(Team project — I owned the frontend)*
 Social media platform with user registration, post creation, likes, friend connections, and chat. Full MERN stack.
 
-`React.js` `Node.js` `MongoDB` `Express`
+`React.js` `Tailwind CSS` `Node.js` `MongoDB` `Express`
 
 ---
 
