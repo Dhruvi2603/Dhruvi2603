@@ -5,7 +5,7 @@ I build production-grade web applications — multi-role dashboards, API-heavy p
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 **Strong:** React.js · Next.js · TypeScript · JavaScript · Tailwind CSS · Material UI · Redux · Context API · REST APIs
 
